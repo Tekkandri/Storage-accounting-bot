@@ -1,4 +1,4 @@
 import pytz
-TOKEN = "6788562078:AAFRS4UOvxJaAiLHWeiCmQAtY6FVoTwQl6Q"
-PASSWORD = "12345678"
+TOKEN = ""
+PASSWORD = ""
 tz = pytz.timezone('Europe/Moscow')
